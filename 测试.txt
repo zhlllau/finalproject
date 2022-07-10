@@ -1,0 +1,35 @@
+const int col=130;
+const int beEliRow=8;
+const int EliNum=22;
+int ci = 0;
+
+const int col=254;
+const int beEliRow=53;
+const int EliNum=106;
+int ci = 1;
+
+const int col=562;
+const int beEliRow=53;
+const int EliNum=170;
+int ci = 2;
+
+const int col=1011;
+const int beEliRow=263;
+const int EliNum=539;
+int ci = 3;
+
+const int col=2362;
+const int beEliRow=453;
+const int EliNum=1226;
+int ci = 4;
+
+const int col=3799;
+const int beEliRow=1953;
+const int EliNum=2759;
+int ci = 5;
+
+const int col=8399;
+const int beEliRow=4535;
+const int EliNum=6375;
+int ci = 6;
+
